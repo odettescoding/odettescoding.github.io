@@ -1,0 +1,39 @@
+html {
+    background-color: #83b3e0;
+  }body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #eec9ee;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+p,h4 {
+    color: rgb(238, 18, 183);width: 500px;
+    border: 1px solid black;
+
+  }
+  html {
+    font-size: 10px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+  }
+  h4,h5{
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  h4 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0e85f5;
+    text-shadow: 1px 3px 2px rgb(201, 23, 23);
+  }
+  img {
+    display: block;
+    margin: 10px auto;
+  }
